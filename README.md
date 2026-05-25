@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/modern-data-ai-hero.svg" alt="Pratik Thakare - Data Engineer and AI Engineer" width="100%" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="Animated night city developer workspace" width="72%" />
 </p>
 
 <h1 align="center">Pratik Thakare</h1>
@@ -23,6 +23,10 @@
   <code>LangGraph</code>
   <code>RAG</code>
   <code>MLflow</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:3B82F6,100:F59E0B&height=48&section=header&width=100" alt="Gradient wave divider" width="100%" />
 </p>
 
 ---
@@ -78,3 +82,7 @@ source systems -> governed ingestion -> Spark / SQL transformation
 ### Direction
 
 This GitHub is becoming a practical portfolio around data systems, AI workflows, and tools that grow into usable software. I care about clean foundations, grounded intelligence, and products that are calm to use and easy to maintain.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:3B82F6,100:F59E0B&height=48&section=footer&width=100" alt="Gradient wave footer" width="100%" />
+</p>

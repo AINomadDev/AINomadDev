@@ -1,7 +1,7 @@
 <h2 align="left">Hey, I am Pratik.</h2>
 
 <p align="center">
-  <img src="./assets/data-ai-banner.svg" alt="Animated data and AI engineering banner" width="100%" />
+  <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif?raw=true" alt="Animated lofi coding workspace" width="100%" />
 </p>
 
 <p align="center">
@@ -9,6 +9,10 @@
 </p>
 
 I build cloud data platforms, Spark/Airflow pipelines, lakehouse ingestion systems, and grounded LLM workflows.
+
+<p align="center">
+  <img src="./assets/lightning-data-runner.gif" alt="Animated lightning data runner" width="76%" />
+</p>
 
 ## Focus
 

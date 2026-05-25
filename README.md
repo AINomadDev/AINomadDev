@@ -11,7 +11,7 @@
 I build cloud data platforms, Spark/Airflow pipelines, lakehouse ingestion systems, and grounded LLM workflows.
 
 <p align="center">
-  <img src="./assets/lightning-data-runner.gif" alt="Animated lightning data runner" width="76%" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="Animated moving car city workspace" width="70%" />
 </p>
 
 ## Focus

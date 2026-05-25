@@ -1,67 +1,61 @@
-# Pratik Thakare
+# Hey, I am Pratik.
 
-**Data Engineer | AI Engineer | Cloud Data Platforms**
+I build data platforms and AI workflows.
 
-I build reliable data platforms and practical AI systems. My work sits at the intersection of cloud data engineering, Spark-based processing, orchestration, lakehouse architecture, and LLM-powered workflows.
+Most of my work is somewhere between **cloud data engineering**, **Spark/Airflow pipelines**, and **LLM-powered applications**. I like systems where the data layer is solid, the AI layer is grounded, and the final product is actually useful to someone.
 
-Currently focused on enterprise data and AI engineering: preparing data layers for analytics platforms, governed AI assistants, agent-enabled workflows, semantic retrieval, and scalable decision-intelligence systems.
+Right now I am especially interested in:
 
-## Core Strengths
+- agent-enabled analytics platforms
+- governed enterprise AI assistants
+- semantic retrieval and RAG systems
+- reusable data ingestion frameworks
+- lakehouse pipelines that are boring, observable, and fast
 
-- 5+ years of experience building end-to-end data engineering solutions on cloud platforms.
-- Strong hands-on experience with GCP data services including Cloud Composer, GCS, BigQuery, Pub/Sub, Dataproc, Dataflow, and lakehouse-style architectures.
-- Deep experience modernizing ETL workflows with Apache Airflow, Spark, PySpark, Scala, Spark SQL, and reusable ingestion frameworks.
-- Built batch and streaming pipelines across structured and semi-structured data formats including CSV, Parquet, JSON, and Avro.
-- Designed ingestion and transformation layers with validation, schema enforcement, CDC handling, duplicate checks, and auditability.
-- Improved Spark workload performance by up to 80% and reduced manual DAG development effort by 50% through reusable frameworks and automation.
-- Practical experience building LLM-powered applications with tool orchestration, multi-step reasoning, context-aware responses, and structured outputs.
-- Familiar with LangChain, LangGraph, RAG patterns, agent workflows, function calling, memory, and context management.
-- Working knowledge of MLOps and observability using MLflow for experiment tracking, configuration logging, model/prompt tracking, and reproducible pipelines.
-- Strong ownership mindset with experience mentoring engineers and collaborating across data, product, and platform teams.
+## What I Usually Build
 
-## What I Work On
+```txt
+source systems
+    -> ingestion frameworks
+    -> Spark / SQL transformations
+    -> validated lakehouse layers
+    -> analytics + AI tools
+    -> product workflows
+```
 
-| Area | Focus |
+I have spent the last 5+ years building and modernizing data platforms across cloud storage, orchestration, batch processing, streaming patterns, and analytical warehouses. More recently, I have been applying that same engineering discipline to LLM applications: tool routing, context management, structured responses, guardrails, and agent workflows.
+
+## A Few Things I Care About
+
+- Data quality before dashboards.
+- Deterministic tools before vague AI answers.
+- Reusable frameworks over repeated pipeline boilerplate.
+- Clear lineage, validation, observability, and failure states.
+- AI systems that can say what they used and why.
+
+## Engineering Range
+
+| Area | Things I work with |
 | --- | --- |
-| **Data Engineering** | ETL modernization, ingestion frameworks, Medallion architecture, Spark optimization, Airflow orchestration |
-| **Cloud Data Platforms** | GCP, BigQuery, GCS, Cloud Composer, Dataproc, Pub/Sub, Dataflow, Snowflake, Databricks |
-| **AI Engineering** | LLM applications, agent workflows, tool/function calling, RAG, context management, response guardrails |
-| **MLOps and Reliability** | MLflow tracking, observability, reusable pipelines, validation, reproducible configurations |
-| **Product Engineering** | Python applications, Streamlit prototypes, APIs, Dockerized local development, practical user workflows |
+| Data pipelines | Apache Airflow, Cloud Composer, AWS MWAA, Azure Data Factory |
+| Processing | Spark, PySpark, Scala, Spark SQL, Pandas |
+| Lakehouse and warehouse | BigQuery, Snowflake, Databricks, Delta Lake, Iceberg |
+| Cloud and storage | GCP, GCS, Pub/Sub, Dataproc, Dataflow, AWS S3 |
+| AI engineering | LangChain, LangGraph, RAG, Vector DBs, Pinecone, tool/function calling |
+| MLOps and reliability | MLflow, tracking, observability, configuration/version logging |
+| Product layer | Python, Streamlit, FastAPI, Next.js, Docker, GitHub Actions |
 
-## Recent Work Themes
+## Some Real Outcomes
 
-- Built AI-assisted analytical systems where natural-language questions are routed through deterministic tools for trend analysis, anomaly detection, scenario simulation, and insight generation.
-- Developed custom orchestration layers for intent parsing, entity extraction, tool routing, contextual execution, short-term memory, and cached analytical outputs.
-- Integrated multi-provider LLM setups across cloud and local models for prototyping, fallback, and flexible experimentation.
-- Designed secure session handling, structured prompts, response validation, and guardrails to keep AI outputs grounded in computed results.
-- Built data modernization pipelines using Medallion architecture for historical and incremental ingestion from enterprise source systems into cloud warehouses.
-- Migrated legacy orchestration and ingestion workflows into modern cloud-native Airflow and Spark-based platforms.
-- Worked with batch, streaming, and multi-cloud ingestion patterns across object storage, data warehouses, and message streams.
+- Improved Spark workload performance by up to **80%** through query, partitioning, and framework-level optimizations.
+- Reduced manual DAG development effort by around **50%** with reusable orchestration patterns.
+- Designed ingestion frameworks for structured and semi-structured formats like CSV, Parquet, JSON, and Avro.
+- Built analytical AI workflows where LLM responses are grounded in executed tools, not guesses.
 
-## Tech Stack
+## Public Work
 
-**Languages:** Python, Scala, SQL, TypeScript  
-**Data Processing:** Spark, PySpark, Spark SQL, Pandas, Delta Lake, Iceberg  
-**Orchestration:** Apache Airflow, Cloud Composer, AWS MWAA, Azure Data Factory  
-**Cloud and Storage:** GCP, BigQuery, GCS, Dataproc, Pub/Sub, Dataflow, AWS S3, Snowflake, Databricks  
-**AI Engineering:** LangChain, LangGraph, RAG, Vector DBs, Pinecone, LLM tool orchestration, structured prompting  
-**MLOps:** MLflow, experiment tracking, observability, configuration/version logging  
-**DevOps:** Docker, Git, CI/CD, GitHub Actions  
+I am slowly turning this GitHub into a cleaner public portfolio. Some repositories are experiments, some are in-progress products, and some are forks I study from. The signal I want to grow here is practical: data systems, AI workflows, and tools that become usable software.
 
-## Engineering Principles
+If you are here for the short version:
 
-- Build data foundations before adding intelligence.
-- Prefer deterministic computation where correctness matters.
-- Keep AI outputs grounded in tools, retrieved context, and validated data.
-- Design reusable frameworks instead of repeating one-off pipeline work.
-- Make pipelines observable, testable, and easy to operate.
-- Ship systems that are useful, maintainable, and ready for real users.
-
-## Public Builds
-
-I am gradually shaping this GitHub into a portfolio of practical data and AI engineering work. Current public work is still early, so I am keeping this profile focused on professional signal rather than over-decorated showcases.
-
----
-
-_Data engineering depth. AI engineering momentum. Builder mindset._
+> Data engineer by depth. AI engineer by direction. Builder by habit.

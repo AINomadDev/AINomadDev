@@ -1,0 +1,64 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pratik Thakare Data Engineer AI Engineer</title>
+  <desc id="desc">Modern abstract hero for cloud data engineering and AI engineering.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.52" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="150" y1="238" x2="1058" y2="82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="0.5" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(290 78) rotate(35) scale(330 160)">
+      <stop stop-color="#14B8A6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(910 234) rotate(20) scale(340 150)">
+      <stop stop-color="#3B82F6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="32" fill="url(#glowA)"/>
+  <rect width="1200" height="320" rx="32" fill="url(#glowB)"/>
+  <g opacity="0.14">
+    <path d="M76 72H1124" stroke="#CBD5E1"/>
+    <path d="M76 128H1124" stroke="#CBD5E1"/>
+    <path d="M76 184H1124" stroke="#CBD5E1"/>
+    <path d="M76 240H1124" stroke="#CBD5E1"/>
+    <path d="M196 46V274" stroke="#CBD5E1"/>
+    <path d="M396 46V274" stroke="#CBD5E1"/>
+    <path d="M596 46V274" stroke="#CBD5E1"/>
+    <path d="M796 46V274" stroke="#CBD5E1"/>
+    <path d="M996 46V274" stroke="#CBD5E1"/>
+  </g>
+  <path d="M92 234C207 182 294 205 395 220C521 239 592 194 696 139C818 75 921 96 1035 132C1077 145 1112 146 1142 134" stroke="url(#stroke)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M92 260C237 220 327 252 459 244C579 237 654 174 755 130C856 86 948 93 1110 68" stroke="#94A3B8" stroke-opacity="0.26" stroke-width="2" stroke-linecap="round"/>
+  <g transform="translate(74 62)">
+    <rect width="288" height="196" rx="24" fill="#020617" fill-opacity="0.70" stroke="#334155"/>
+    <rect x="26" y="28" width="236" height="28" rx="14" fill="#0F172A" stroke="#1F2937"/>
+    <circle cx="48" cy="42" r="5" fill="#14B8A6"/>
+    <circle cx="68" cy="42" r="5" fill="#3B82F6"/>
+    <circle cx="88" cy="42" r="5" fill="#F59E0B"/>
+    <text x="26" y="92" fill="#5EEAD4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">data.validate()</text>
+    <text x="26" y="126" fill="#93C5FD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">spark.optimize()</text>
+    <text x="26" y="160" fill="#FCD34D" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">agent.ground()</text>
+  </g>
+  <g transform="translate(424 78)">
+    <text x="0" y="44" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="48" font-weight="850">Data systems that think</text>
+    <text x="2" y="90" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="23" font-weight="650">Cloud data engineering + grounded AI workflows</text>
+    <text x="2" y="138" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">Reliable pipelines. Validated layers. Tool-using agents.</text>
+    <text x="2" y="166" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">Useful product experiences built on trusted data.</text>
+    <g transform="translate(2 210)">
+      <rect width="114" height="34" rx="17" fill="#042F2E"/>
+      <text x="24" y="23" fill="#CCFBF1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="800">DATA</text>
+      <rect x="130" width="86" height="34" rx="17" fill="#1E3A8A"/>
+      <text x="158" y="23" fill="#DBEAFE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="800">AI</text>
+      <rect x="232" width="122" height="34" rx="17" fill="#78350F"/>
+      <text x="258" y="23" fill="#FEF3C7" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="800">PRODUCT</text>
+    </g>
+  </g>
+</svg>

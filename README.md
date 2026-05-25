@@ -1,86 +1,81 @@
+<h1 align="center">Hi, I am Pratik.</h1>
+
 <p align="center">
-  <img src="./assets/lightning-data-runner.gif" alt="Animated lightning data runner banner" />
+  <img src="./assets/lightning-data-runner.gif" alt="Animated lightning data runner banner" width="85%" />
 </p>
 
-<h1 align="center">Pratik Thakare</h1>
-
-<h3 align="center">Data Engineer + AI Engineer</h3>
+<p align="center">
+  <b>Data Engineer</b> · <b>AI Engineer</b> · <b>Builder</b>
+</p>
 
 <p align="center">
   <code>cloud data platforms</code>
-  <code>spark + airflow</code>
-  <code>lakehouse pipelines</code>
-  <code>agentic ai workflows</code>
+  <code>spark</code>
+  <code>airflow</code>
+  <code>lakehouse</code>
+  <code>rag</code>
+  <code>agents</code>
 </p>
 
 ---
 
-## What I Am Building Toward
+## ├──📂 about
 
-I work on the layer where data platforms become intelligent products: reliable ingestion, scalable processing, semantic retrieval, tool-using agents, and clean workflows that help people make better decisions.
+```yaml
+name: Pratik Thakare
+focus: Data Engineering + AI Engineering
+experience: 5+ years
+current_mode: building reliable data layers for intelligent products
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Data Platforms</h3>
-      <p>Ingestion frameworks, Spark pipelines, Medallion architecture, schema validation, CDC, orchestration, and warehouse-ready datasets.</p>
-    </td>
-    <td width="33%">
-      <h3>AI Systems</h3>
-      <p>LLM applications with tool routing, RAG, context management, structured outputs, guardrails, and observability.</p>
-    </td>
-    <td width="33%">
-      <h3>Builder Mindset</h3>
-      <p>Reusable frameworks, practical interfaces, Dockerized workflows, clear runbooks, and systems that can be debugged under pressure.</p>
-    </td>
-  </tr>
-</table>
-
-## Operating Model
-
-```txt
-raw data
-  -> governed ingestion
-  -> Spark / SQL transformation
-  -> validated lakehouse layers
-  -> analytics, retrieval, and tools
-  -> AI-assisted product workflows
+interests:
+  - cloud data platforms
+  - spark and airflow modernization
+  - lakehouse ingestion frameworks
+  - agent-enabled analytics
+  - retrieval and context engineering
+  - grounded LLM workflows
 ```
 
-## Proof Points
+## ├──📂 operating-system
 
-- 5+ years building and modernizing cloud data platforms.
-- Up to **80% Spark performance improvement** through optimization and framework-level improvements.
-- Around **50% reduction in manual DAG development effort** through reusable orchestration patterns.
-- Experience with batch, streaming, structured, and semi-structured ingestion across CSV, Parquet, JSON, and Avro.
-- Hands-on AI engineering with agent workflows, tool/function calling, RAG patterns, MLflow tracking, and structured response guardrails.
+```bash
+> what_i_build
+  raw_data -> governed_ingestion -> spark_transformations
+           -> validated_lakehouse_layers -> analytics_tools
+           -> ai_assisted_workflows
 
-## Current Interests
+> engineering_bias
+  data_quality_before_dashboards
+  deterministic_tools_before_vague_ai_answers
+  reusable_frameworks_over_pipeline_boilerplate
+  observable_systems_over_hidden_magic
+```
 
-<p>
-  <code>agent-enabled analytics</code>
-  <code>semantic retrieval</code>
-  <code>enterprise AI assistants</code>
-  <code>lakehouse architecture</code>
-  <code>workflow automation</code>
-  <code>LLM observability</code>
-</p>
+## ├──📂 proof-points
 
-## Stack Map
+```txt
+5+ years      building and modernizing cloud data platforms
+80%           Spark performance improvement in optimization work
+50%           reduction in manual DAG effort through reusable patterns
+formats       CSV · Parquet · JSON · Avro
+ai-workflows  RAG · tool calling · context management · guardrails · MLflow
+```
 
-| Layer | Tools and patterns |
+## ├──📂 stack
+
+| Layer | Tools |
 | --- | --- |
-| Orchestration | Apache Airflow, Cloud Composer, AWS MWAA, Azure Data Factory |
-| Processing | Spark, PySpark, Scala, Spark SQL, Pandas |
-| Lakehouse and warehouse | BigQuery, Snowflake, Databricks, Delta Lake, Iceberg |
-| Cloud and storage | GCP, GCS, Pub/Sub, Dataproc, Dataflow, AWS S3 |
-| AI engineering | LangChain, LangGraph, RAG, Vector DBs, Pinecone, tool/function calling |
-| Reliability | MLflow, validation, observability, CI/CD, Docker, GitHub Actions |
+| orchestration | Apache Airflow, Cloud Composer, AWS MWAA, Azure Data Factory |
+| processing | Spark, PySpark, Scala, Spark SQL, Pandas |
+| lakehouse | BigQuery, Snowflake, Databricks, Delta Lake, Iceberg |
+| cloud | GCP, GCS, Pub/Sub, Dataproc, Dataflow, AWS S3 |
+| ai | LangChain, LangGraph, RAG, Vector DBs, Pinecone, tool/function calling |
+| reliability | MLflow, validation, observability, CI/CD, Docker, GitHub Actions |
 
-## Public Work
+## └──📂 public-work
 
-This GitHub is becoming a portfolio of practical data and AI engineering work. Some repositories are experiments, some are products in progress, and some are references I learn from. The direction is simple: useful data systems, grounded AI workflows, and tools that grow into real software.
+This profile is still being shaped. I am keeping it focused on signal, not noise: practical data systems, grounded AI workflows, and tools that can grow into real software.
 
 <p align="center">
-  <img src="./assets/footer-strip.svg" alt="Reliable data, grounded AI, useful products" />
+  <img src="./assets/footer-strip.svg" alt="Reliable data, grounded AI, useful products" width="85%" />
 </p>

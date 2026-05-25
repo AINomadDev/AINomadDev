@@ -1,0 +1,60 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pratik Thakare - Data Engineer and AI Engineer</title>
+  <desc id="desc">A clean GitHub profile banner showing data pipelines, AI workflows, and product building.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="124" y1="218" x2="1068" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="0.52" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(210 85) rotate(30) scale(240 130)">
+      <stop stop-color="#14B8A6" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(875 240) rotate(30) scale(300 140)">
+      <stop stop-color="#6366F1" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="330" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="30" fill="url(#glow1)"/>
+  <rect width="1200" height="330" rx="30" fill="url(#glow2)"/>
+  <g opacity="0.12">
+    <path d="M72 74H1128" stroke="#E5E7EB"/>
+    <path d="M72 134H1128" stroke="#E5E7EB"/>
+    <path d="M72 194H1128" stroke="#E5E7EB"/>
+    <path d="M72 254H1128" stroke="#E5E7EB"/>
+    <path d="M182 42V288" stroke="#E5E7EB"/>
+    <path d="M382 42V288" stroke="#E5E7EB"/>
+    <path d="M582 42V288" stroke="#E5E7EB"/>
+    <path d="M782 42V288" stroke="#E5E7EB"/>
+    <path d="M982 42V288" stroke="#E5E7EB"/>
+  </g>
+  <path d="M88 238C185 198 261 215 354 232C484 255 559 216 660 158C766 97 860 101 976 138C1033 156 1082 160 1130 141" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <g transform="translate(74 58)">
+    <rect width="350" height="214" rx="22" fill="#020617" fill-opacity="0.78" stroke="#334155"/>
+    <text x="28" y="52" fill="#5EEAD4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">ingest.validate()</text>
+    <text x="28" y="88" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">spark.optimize()</text>
+    <text x="28" y="124" fill="#FCD34D" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">agent.route_tools()</text>
+    <text x="28" y="160" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">ship_useful_workflows()</text>
+  </g>
+  <g transform="translate(485 74)">
+    <text x="0" y="44" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="52" font-weight="850">Pratik Thakare</text>
+    <text x="2" y="90" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="650">Data Engineer · AI Engineer</text>
+    <text x="2" y="138" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">I build reliable data foundations and grounded AI</text>
+    <text x="2" y="166" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="18">workflows that become useful product experiences.</text>
+    <g transform="translate(2 210)">
+      <rect width="96" height="34" rx="17" fill="#042F2E"/>
+      <text x="23" y="23" fill="#CCFBF1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="800">DATA</text>
+      <rect x="112" width="74" height="34" rx="17" fill="#312E81"/>
+      <text x="139" y="23" fill="#E0E7FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="800">AI</text>
+      <rect x="202" width="126" height="34" rx="17" fill="#78350F"/>
+      <text x="226" y="23" fill="#FEF3C7" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="800">BUILDERSHIP</text>
+    </g>
+  </g>
+</svg>

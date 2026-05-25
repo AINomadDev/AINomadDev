@@ -1,16 +1,21 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Pratik Thakare - Data Engineer and AI Engineer" />
+  <img src="./assets/lightning-data-runner.gif" alt="Animated lightning data runner banner" />
 </p>
 
-<h2 align="center">Data Engineer by depth. AI Engineer by direction. Builder by habit.</h2>
+<h1 align="center">Pratik Thakare</h1>
+
+<h3 align="center">Data Engineer + AI Engineer</h3>
 
 <p align="center">
-  <b>Cloud data platforms</b> · <b>Spark + Airflow</b> · <b>Lakehouse pipelines</b> · <b>Agentic AI workflows</b>
+  <code>cloud data platforms</code>
+  <code>spark + airflow</code>
+  <code>lakehouse pipelines</code>
+  <code>agentic ai workflows</code>
 </p>
 
 ---
 
-## What I am building toward
+## What I Am Building Toward
 
 I work on the layer where data platforms become intelligent products: reliable ingestion, scalable processing, semantic retrieval, tool-using agents, and clean workflows that help people make better decisions.
 
@@ -31,7 +36,7 @@ I work on the layer where data platforms become intelligent products: reliable i
   </tr>
 </table>
 
-## My operating model
+## Operating Model
 
 ```txt
 raw data
@@ -42,7 +47,7 @@ raw data
   -> AI-assisted product workflows
 ```
 
-## Proof points
+## Proof Points
 
 - 5+ years building and modernizing cloud data platforms.
 - Up to **80% Spark performance improvement** through optimization and framework-level improvements.
@@ -50,7 +55,7 @@ raw data
 - Experience with batch, streaming, structured, and semi-structured ingestion across CSV, Parquet, JSON, and Avro.
 - Hands-on AI engineering with agent workflows, tool/function calling, RAG patterns, MLflow tracking, and structured response guardrails.
 
-## Current interests
+## Current Interests
 
 <p>
   <code>agent-enabled analytics</code>
@@ -61,7 +66,7 @@ raw data
   <code>LLM observability</code>
 </p>
 
-## Stack map
+## Stack Map
 
 | Layer | Tools and patterns |
 | --- | --- |
@@ -72,7 +77,7 @@ raw data
 | AI engineering | LangChain, LangGraph, RAG, Vector DBs, Pinecone, tool/function calling |
 | Reliability | MLflow, validation, observability, CI/CD, Docker, GitHub Actions |
 
-## Public work
+## Public Work
 
 This GitHub is becoming a portfolio of practical data and AI engineering work. Some repositories are experiments, some are products in progress, and some are references I learn from. The direction is simple: useful data systems, grounded AI workflows, and tools that grow into real software.
 

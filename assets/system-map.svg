@@ -1,39 +1,33 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Data AI product system map</title>
-  <desc id="desc">A diagram showing data foundations flowing into AI systems and product experiences.</desc>
-  <defs>
-    <linearGradient id="card" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-    <linearGradient id="line" x1="120" y1="150" x2="1080" y2="150" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2DD4BF"/>
-      <stop offset="0.5" stop-color="#818CF8"/>
-      <stop offset="1" stop-color="#FBBF24"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="300" rx="28" fill="url(#card)"/>
-  <path d="M310 150H460" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
-  <path d="M742 150H892" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
-  <g transform="translate(70 62)">
-    <rect width="250" height="176" rx="22" fill="#042F2E" stroke="#14B8A6"/>
-    <text x="28" y="48" fill="#CCFBF1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="800">Data Layer</text>
-    <text x="28" y="88" fill="#99F6E4" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">pipelines</text>
-    <text x="28" y="118" fill="#99F6E4" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">models</text>
-    <text x="28" y="148" fill="#99F6E4" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">quality checks</text>
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Current build themes</title>
+  <desc id="desc">Four compact cards showing data foundations, AI systems, product workflows, and operations.</desc>
+  <rect width="1200" height="260" rx="28" fill="#0B1120"/>
+  <g transform="translate(42 42)">
+    <rect width="258" height="176" rx="22" fill="#0F172A" stroke="#1E293B"/>
+    <rect x="22" y="22" width="46" height="46" rx="14" fill="#042F2E"/>
+    <text x="22" y="96" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="800">Data Foundations</text>
+    <text x="22" y="130" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">pipelines, models, quality</text>
+    <text x="22" y="154" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">checks, analytics contracts</text>
   </g>
-  <g transform="translate(475 62)">
-    <rect width="250" height="176" rx="22" fill="#1E1B4B" stroke="#818CF8"/>
-    <text x="28" y="48" fill="#E0E7FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="800">AI Layer</text>
-    <text x="28" y="88" fill="#C7D2FE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">agents</text>
-    <text x="28" y="118" fill="#C7D2FE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">retrieval</text>
-    <text x="28" y="148" fill="#C7D2FE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">tool orchestration</text>
+  <g transform="translate(326 42)">
+    <rect width="258" height="176" rx="22" fill="#0F172A" stroke="#1E293B"/>
+    <rect x="22" y="22" width="46" height="46" rx="14" fill="#312E81"/>
+    <text x="22" y="96" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="800">AI Systems</text>
+    <text x="22" y="130" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">agents, RAG, memory, tools</text>
+    <text x="22" y="154" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">local + cloud model routing</text>
   </g>
-  <g transform="translate(880 62)">
-    <rect width="250" height="176" rx="22" fill="#431407" stroke="#F59E0B"/>
-    <text x="28" y="48" fill="#FEF3C7" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="800">Product Layer</text>
-    <text x="28" y="88" fill="#FDE68A" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">interfaces</text>
-    <text x="28" y="118" fill="#FDE68A" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">workflows</text>
-    <text x="28" y="148" fill="#FDE68A" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">deployment</text>
+  <g transform="translate(610 42)">
+    <rect width="258" height="176" rx="22" fill="#0F172A" stroke="#1E293B"/>
+    <rect x="22" y="22" width="46" height="46" rx="14" fill="#78350F"/>
+    <text x="22" y="96" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="800">Product Workflows</text>
+    <text x="22" y="130" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">interfaces, auth, forms,</text>
+    <text x="22" y="154" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">dashboards, useful UX</text>
+  </g>
+  <g transform="translate(894 42)">
+    <rect width="258" height="176" rx="22" fill="#0F172A" stroke="#1E293B"/>
+    <rect x="22" y="22" width="46" height="46" rx="14" fill="#164E63"/>
+    <text x="22" y="96" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="800">Ops Discipline</text>
+    <text x="22" y="130" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">Docker, GitHub Actions,</text>
+    <text x="22" y="154" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">runbooks, PR hygiene</text>
   </g>
 </svg>

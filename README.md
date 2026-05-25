@@ -1,60 +1,69 @@
-# Hi, I am Pratik Thakare
-
 <p align="center">
   <img src="./assets/hero.svg" alt="Pratik Thakare - Data Engineer, AI Engineer, Builder" />
 </p>
 
+<h1 align="center">I build data systems that think.</h1>
+
 <p align="center">
-  <strong>WorthNet</strong> · <strong>LearnFlow Studio</strong> · <strong>Data Platforms</strong> · <strong>AI Agents</strong> · <strong>Product Engineering</strong>
+  <b>Data Engineer</b> · <b>AI Engineer</b> · <b>Builder</b><br/>
+  Turning real-world data into pipelines, agents, dashboards, and products that people can actually use.
+</p>
+
+<p align="center">
+  <a href="https://github.com/AINomadDev?tab=repositories"><b>Projects</b></a>
+  ·
+  <a href="https://github.com/AINomadDev/worth-net"><b>WorthNet</b></a>
+  ·
+  <a href="https://github.com/AINomadDev/learnflow-studio"><b>LearnFlow Studio</b></a>
 </p>
 
 ---
 
-## I Build Data + AI Products
+## Builder Snapshot
 
-I am a **Data Engineer + AI Engineer** who likes shipping complete products, not just notebooks or prototypes. My sweet spot is turning messy real-world data into reliable systems, then layering AI workflows on top so the product feels useful, explainable, and alive.
+| What I do | What it looks like in practice |
+| --- | --- |
+| **Data engineering** | Ingestion, transformations, quality checks, market data, analytics-ready models |
+| **AI engineering** | Agents, retrieval, tool use, memory, local/cloud model routing, graceful fallbacks |
+| **Product building** | Next.js interfaces, FastAPI services, auth, workflows, Docker, private deployment |
+| **Engineering ops** | GitHub Actions, PR strategy, release hygiene, runbooks, repeatable local setup |
+
+## Current Build Themes
 
 <p align="center">
-  <img src="./assets/system-map.svg" alt="Data, AI, and product system map" />
+  <img src="./assets/system-map.svg" alt="Current build themes across data, AI, and product engineering" />
 </p>
 
-## Builder Mode
+## Featured Work
+
+| Build | Why it matters |
+| --- | --- |
+| **WorthNet** | A private finance intelligence workspace: portfolio analytics, integrations, market research, AI support, and deployable local-first infrastructure. |
+| **LearnFlow Studio** | An AI learning operating system: project workspace, AI chat, resource flows, and practical GitHub automation. |
+| **Market + Data AI Tools** | Experiments around finance research, data-source fidelity, workflow agents, and useful automation. |
+
+## My Engineering Bias
 
 ```txt
-01  Data foundations      ingestion, models, quality checks, analytics
-02  AI systems            agents, RAG, tools, memory, model orchestration
-03  Product engineering   Next.js, FastAPI, auth, UX, workflows, deployment
-04  Operational polish    Docker, GitHub Actions, release flow, observability
+1. Make the data trustworthy.
+2. Make the AI explain what it used.
+3. Make the UI feel calm and usable.
+4. Make deployment boring.
+5. Make repeated work disappear into automation.
 ```
 
-## Featured Builds
+## Stack
+
+`Python` `TypeScript` `FastAPI` `Next.js` `Postgres` `SQLite` `Docker` `GitHub Actions` `LLM Agents` `RAG` `Analytics`
+
+## How I Like To Ship
+
+- Start from the actual user workflow.
+- Keep source visibility and failure states obvious.
+- Prefer simple systems that can be debugged under pressure.
+- Validate end to end: backend, UI, data, auth, deployment, docs.
+- Preserve working checkpoints with clear PR summaries and runbooks.
 
 <p align="center">
-  <img src="./assets/projects.svg" alt="Featured projects: WorthNet, LearnFlow Studio, Data AI tools" />
-</p>
-
-| Project | Signal |
-| --- | --- |
-| **WorthNet** | Personal/family finance operating system with portfolio analytics, integrations, AI assistance, and private deployment paths. |
-| **LearnFlow Studio** | AI learning workspace with project flows, chat, resources, modern UX, and GitHub workflow automation. |
-| **Data + AI Tools** | Experiments around market intelligence, finance research, workflow agents, and practical automation. |
-
-## How I Think
-
-- Build the boring data layer well so the AI layer can be trusted.
-- Make sources, assumptions, and failure states visible.
-- Prefer systems that are small enough to debug and strong enough to run.
-- Turn repeated manual engineering work into documented automation.
-- Ship end to end: backend, UI, auth, deployment, docs, and validation.
-
-## Stack I Reach For
-
-`Python` `TypeScript` `FastAPI` `Next.js` `Postgres` `SQLite` `Docker` `GitHub Actions` `LLM Agents` `Analytics`
-
-## Current Direction
-
-I am building toward a practical portfolio of AI-assisted products: finance intelligence, learning systems, data automation, and private tools that help people make better decisions from their own information.
-
-<p align="center">
-  <img src="./assets/footer.svg" alt="Building useful systems at the intersection of data, AI, and product engineering" />
+  <img src="./assets/footer.svg" alt="Data foundations, AI systems, product workflows" />
 </p>

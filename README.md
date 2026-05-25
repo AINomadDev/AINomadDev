@@ -1,3 +1,5 @@
+# Hi, I am Pratik Thakare
+
 <p align="center">
   <img src="./assets/hero.svg" alt="Pratik Thakare - Data Engineer, AI Engineer, Builder" />
 </p>

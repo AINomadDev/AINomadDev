@@ -8,7 +8,9 @@
   <b>Data Engineer</b> · <b>AI Engineer</b> · <b>Builder</b>
 </p>
 
-I build cloud data platforms, Spark/Airflow pipelines, lakehouse ingestion systems, and grounded LLM workflows.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:017CEE,45:29B5E8,100:1C3C3C&height=2&section=header&width=100" alt="Divider" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" alt="Animated moving car city workspace" width="70%" />

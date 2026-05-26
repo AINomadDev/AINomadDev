@@ -24,33 +24,27 @@ I build cloud data platforms, Spark/Airflow pipelines, lakehouse ingestion syste
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,scala,typescript,fastapi,nextjs,docker,git,githubactions,gcp,aws,postgres,sqlite,sklearn&perline=7" alt="Languages and tools" />
+    <img src="https://skillicons.dev/icons?i=python,scala,java,typescript,spring,fastapi,nextjs,docker,git,githubactions,terraform,gcp,aws,azure,postgres,sqlite,sklearn&perline=9" alt="Languages and tools" />
   </a>
 </p>
 
 ## Data And AI Stack
 
 <p>
-  <code>Apache Airflow</code>
-  <code>Cloud Composer</code>
-  <code>BigQuery</code>
-  <code>Dataproc</code>
-  <code>Dataflow</code>
-  <code>Snowflake</code>
-  <code>Databricks</code>
-  <code>Spark</code>
-  <code>PySpark</code>
-  <code>Delta Lake</code>
-  <code>Iceberg</code>
-  <code>LangChain</code>
-  <code>LangGraph</code>
-  <code>RAG</code>
-  <code>Pinecone</code>
-  <code>MLflow</code>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Cloud%20Composer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Composer" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Dataproc" />
+  <img src="https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Dataflow" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/Iceberg-5B8DEF?style=for-the-badge&logo=apache&logoColor=white" alt="Iceberg" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 </p>
-
-## Signal
-
-- 5+ years in data engineering across cloud, batch, streaming, and orchestration.
-- Spark performance optimization, reusable DAG patterns, ingestion frameworks, validation, CDC, and auditing.
-- Hands-on with LLM tool calling, context management, structured outputs, guardrails, and observability.
